@@ -1,0 +1,25 @@
+.box, .box2 {
+    width: 100vw;
+    height: 300px;
+    position: fixed;
+}
+
+.box {
+    background-color: green;
+    z-index: -1;
+
+}
+
+
+
+p {
+    font-size: 30px;
+    color: white;
+    font-family: 'Cookie',cursive;
+}
+
+.p2 {
+    color: black;
+    z-index: -1;
+    font-family: 'Roboto',sans-serif;
+}
